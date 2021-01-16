@@ -7,10 +7,16 @@
 ### Olá! Seja bem vindo ao meu repositório, é aqui onde deposito a maioria dos meus projetos de estudo, e será aqui onde verei o meu desenvolvimento diário.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ah-Cabral&show_icons=true&theme=tokyonight)
+<details>
+<summary> <b> Um pouco sobre mim, só clicar aqui </b> <i>(Clique aqui para expandir)</i> </summary>
+
+### 📖 Sobre mim
+Sou desenvolvedor iniciante, estudante da Universidade Federal Rural de Pernambuco (UFRPE) atualmente estudando para evoluir na jornada full-stack.
+</details>
 
 ### 📚 Atualmente Estudando 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 
-![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=Ah-Cabral&layout=compact)
+
