@@ -8,7 +8,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ah-Cabral&show_icons=true&theme=tokyonight)
 <details>
-<summary> <b> Um pouco sobre mim, só clicar aqui </b> <i>(Clique aqui para expandir)</i> </summary>
+<summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
 
 ### 📖 Sobre mim
 Sou desenvolvedor iniciante, estudante da Universidade Federal Rural de Pernambuco (UFRPE) atualmente estudando para evoluir na jornada full-stack, meus objetivos envolvem expandir meus conhecimentos diariamente e poder unir as experiências em design que já possuo (e também serão expandidas) ao desenvolvimento.
