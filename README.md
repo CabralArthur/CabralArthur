@@ -11,7 +11,7 @@
 <summary> <b> Um pouco sobre mim, só clicar aqui </b> <i>(Clique aqui para expandir)</i> </summary>
 
 ### 📖 Sobre mim
-Sou desenvolvedor iniciante, estudante da Universidade Federal Rural de Pernambuco (UFRPE) atualmente estudando para evoluir na jornada full-stack.
+Sou desenvolvedor iniciante, estudante da Universidade Federal Rural de Pernambuco (UFRPE) atualmente estudando para evoluir na jornada full-stack, meus objetivos envolvem expandir meus conhecimentos diariamente e poder unir as experiências em design que já possuo (e também serão expandidas) ao desenvolvimento.
 </details>
 
 ### 📚 Atualmente Estudando 
