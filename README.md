@@ -14,6 +14,17 @@
 Sou desenvolvedor iniciante, estudante da Universidade Federal Rural de Pernambuco (UFRPE) atualmente estudando para evoluir na jornada full-stack, meus objetivos envolvem expandir meus conhecimentos diariamente e poder unir as experiências em design que já possuo (e também serão expandidas) ao desenvolvimento.
 </details>
 
+<p align="center">
+    
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah-Cabral&layout=compact&theme=omni)
+  
+
+
+</p>
+
+![Ah-Cabral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ah-Cabral&theme=omni&show_icons=true)
+
 ### 📚 Atualmente Estudando 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
