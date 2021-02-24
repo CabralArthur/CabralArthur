@@ -17,13 +17,13 @@ Sou desenvolvedor iniciante, estudante da Universidade Federal Rural de Pernambu
 <p align="center">
     
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah-Cabral&layout=compact&theme=omni)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah-Cabral&layout=compact&theme=tokyonight)
   
 
 
 </p>
 
-![Ah-Cabral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ah-Cabral&theme=omni&show_icons=true)
+
 
 ### 📚 Atualmente Estudando 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
