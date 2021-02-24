@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-cabral-2730731a4/)](https://www.linkedin.com/in/arthur-cabral-2730731a4/)
 [![Gmail Badge](https://img.shields.io/badge/-ah.cbrl1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ah.cbrl1@gmail.com)](mailto:ah.cbrl1@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-arthur.cabrl-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arthur.cabrl/)](https://www.instagram.com/arthur.cabrl/)
-[![Discord Badge](https://img.shields.io/badge/-arthur.cabrl-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://www.instagram.com/arthur.cabrl/)](https://discordapp.com/users/677322869298167847/)
+[![Discord Badge](https://img.shields.io/badge/-arthur.cabrl-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/677322869298167847/)](https://discordapp.com/users/677322869298167847/)
 ---
 
 ### Olá! Seja bem vindo ao meu GitHub, é aqui onde deposito a maioria dos meus projetos de estudo, e será aqui onde verei o meu desenvolvimento diário.
