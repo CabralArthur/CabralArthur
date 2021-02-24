@@ -1,7 +1,7 @@
 ## :man_technologist: Arthur Cabral
 
 <a href="https://gifer.com/en/Dtf">
-  <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=35% height=30% />
+  <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=35% height=30% margin-top= 2rem />
 </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-cabral-2730731a4/)](https://www.linkedin.com/in/arthur-cabral-2730731a4/)
