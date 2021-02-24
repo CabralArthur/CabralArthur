@@ -14,12 +14,11 @@
 Sou desenvolvedor iniciante, estudante da Universidade Federal Rural de Pernambuco (UFRPE) atualmente estudando para evoluir na jornada full-stack, meus objetivos envolvem expandir meus conhecimentos diariamente e poder unir as experiências em design que já possuo (e também serão expandidas) ao desenvolvimento.
 </details>
 
+## Linguagens Mais Usada
+
 <p align="center">
     
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah-Cabral&layout=compact&theme=tokyonight)
-  
-
 
 </p>
 
