@@ -40,6 +40,6 @@ Sou desenvolvedor iniciante, estudante da Universidade Federal Rural de Pernambu
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-F8A5C2?style=flat-square&logo=sass&logoColor=white)
-![REACT](https://img.shields.io/badge/-REACTJS-1E9AFF?style=flat-square&logo=react&logoColor=white)
+![REACT](https://img.shields.io/badge/-REACT-1E9AFF?style=flat-square&logo=react&logoColor=white)
 
 
