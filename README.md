@@ -70,11 +70,7 @@ app.get("/", (req, res) => {
    <samp>
     <p align="left">
       <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black" />
-      <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat-square&logo=typescript&logoColor=white" />
-      <img alt="Java" src="https://img.shields.io/badge/-Java-DE252C?style=flat-square&logo=java&logoColor=white" />      
-      <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-AA1302?style=flat-square&logo=ruby&logoColor=white" />
-      <img alt="Golang" src="https://img.shields.io/badge/-Golang-282A35?style=flat-square&logo=go&logoColor=04C7D8" />
-      <img alt="PHP" src="https://img.shields.io/badge/-php-4D588E?style=flat-square&logo=php&logoColor=white" />
+      <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-282A35?style=flat-square&logo=go&logoColor=04C7D8" />
       <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white" />
     </p>
@@ -105,10 +101,7 @@ app.get("/", (req, res) => {
       <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
       <img alt="Node.js" src="https://img.shields.io/badge/-Node.JS-026e00?style=flat-square&logo=node.js&logoColor=white" />
       <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-      <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white" />
       <img alt="Yarn" src="https://img.shields.io/badge/-yarn-2188b6?style=flat-square&logo=yarn&logoColor=white" />
-      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-palevioletred?style=flat-square&logo=styled-components&logoColor=black" />
-      <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-4caaf9?style=flat-square&logo=material-ui&logoColor=white" />
       <img alt="Windows" src="https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white" />
       <img alt="Linux" src="https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux&logoColor=white" />
     </p>
