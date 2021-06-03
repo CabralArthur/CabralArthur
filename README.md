@@ -1,4 +1,4 @@
-### <img src="assets/hi.gif" width="22px"> Welcome to my profile
+### Hello. Welcome to my profile.
 
 <samp>
   </br>
@@ -17,6 +17,7 @@
     </a>    
   </p>
 </samp>
+
 ---
 
 ```javascript
