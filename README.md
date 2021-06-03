@@ -19,6 +19,20 @@
 </samp>
 ---
 
+```javascript
+app.get("/", (req, res) => {
+
+  const user = {
+    name: 'Arthur Cabral',
+    age: 18,
+    birthday: '24/09',
+    state: 'Pernambuco',
+    main_stack: ['Java/Spring', 'JavaScript', 'React(JS)', '(My|Postgre)SQL'],
+  };
+  
+  res.json(user);
+});
+```
 
 ---
 
