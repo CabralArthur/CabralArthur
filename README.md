@@ -28,7 +28,7 @@ app.get("/", (req, res) => {
     age: 18,
     birthday: '24/09',
     state: 'Pernambuco',
-    main_stack: ['Java/Spring', 'JavaScript', 'React(JS)', '(My|Postgre)SQL'],
+    main_stack: ['JavaScript', 'React(JS)', '(My|Postgre)SQL'],
   };
   
   res.json(user);
