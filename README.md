@@ -21,7 +21,7 @@
 ---
 
 ```javascript
-app.get("/", (req, res) => {
+app.get("/my-github", (req, res) => {
 
   const user = {
     name: 'Arthur Cabral',
