@@ -41,12 +41,12 @@ app.get("/my-github", (req, res) => {
   <img align="center"
       alt="Thiago Alves Github stats"
       style="margin-bottom: 10px;"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=Ah-Cabral&theme=ayu-mirage&show_icons=true&count_private=true" />
+      height="165" src="https://github-readme-stats.vercel.app/api?username=CabralArthur&theme=ayu-mirage&show_icons=true&count_private=true" />
   <img
     align="center"
     alt="Most used languages"
     style="margin-bottom: 10px;"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ah-Cabral&layout=compact&langs_count=6&theme=ayu-mirage"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CabralArthur&layout=compact&langs_count=6&theme=ayu-mirage"
   />
 </p>
 
