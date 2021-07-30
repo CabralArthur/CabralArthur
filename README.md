@@ -56,14 +56,7 @@ app.get("/my-github", (req, res) => {
   <summary style="cursor: pointer;"> <b style="font-size: 18px; "> 💻 Some Technologies </b> <i style="color: #79c0ff;">(Click here to expand)</i> </summary>
   <br>
 
-#### 🎨 Design: <br/>
 
-   <samp>
-    <p align="left">
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-EA4C1D?style=flat-square&logo=figma&logoColor=white" />
-    <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-450135?style=flat-square&logo=adobe-xd&logoColor=white" />
-    </p>
-  </samp>
 
 #### 💬 Languages: <br/>
 
@@ -85,9 +78,9 @@ app.get("/my-github", (req, res) => {
     </p>
   </samp>
 
-#### 📦 Databases: <br/>
+#### 📦 Database: <br/>
 
-<samp>
+  <samp>
     <p align="left">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white" />
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
@@ -107,7 +100,15 @@ app.get("/my-github", (req, res) => {
       <img alt="Linux" src="https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux&logoColor=white" />
     </p>
   </samp>
+  
+#### 🎨 Design: <br/>
 
+   <samp>
+    <p align="left">
+    <img alt="Figma" src="https://img.shields.io/badge/-Figma-EA4C1D?style=flat-square&logo=figma&logoColor=white" />
+    <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-450135?style=flat-square&logo=adobe-xd&logoColor=white" />
+    </p>
+  </samp>
 </details>
 <br>
 
