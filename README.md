@@ -28,7 +28,7 @@ app.get("/my-github", (req, res) => {
     age: 18,
     birthday: '24/09',
     state: 'Pernambuco',
-    main_stack: ['JavaScript', 'React(JS)', '(My|Postgre)SQL'],
+    main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(My|Postgre)SQL'],
   };
   
   res.json(user);
@@ -76,11 +76,12 @@ app.get("/my-github", (req, res) => {
     </p>
   </samp>
 
-#### 🔨 Frameworks: <br/>
+#### 🔨 Frameworks & Libraries: <br/>
 
    <samp>
     <p align="left">
      <img alt="React" src="https://img.shields.io/badge/-React%20JS-262B32?style=flat-square&logo=react&logoColor=00D0F6" />
+     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-FFC8CB?style=flat-square&logo=styledcomponents&logoColor=black" />
     </p>
   </samp>
 
