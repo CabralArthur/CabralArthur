@@ -52,9 +52,8 @@ app.get("/my-github", (req, res) => {
 
 <br>
 
-<details>
-  <summary style="cursor: pointer;"> <b style="font-size: 18px; "> 💻 Some Technologies </b> <i style="color: #79c0ff;">(Click here to expand)</i> </summary>
-  <br>
+<b style="font-size: 18px; "> 💻 Some Technologies </b> <i style="color: #79c0ff;">(Click here to expand)</i>
+<br>
 
 
 
@@ -109,7 +108,6 @@ app.get("/my-github", (req, res) => {
     <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-450135?style=flat-square&logo=adobe-xd&logoColor=white" />
     </p>
   </samp>
-</details>
 <br>
 
 #### Thank you! 👋
