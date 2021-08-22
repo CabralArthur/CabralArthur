@@ -52,7 +52,7 @@ app.get("/my-github", (req, res) => {
 
 <br>
 
-<b style="font-size: 18px; "> 💻 Some Technologies </b> <i style="color: #79c0ff;">(Click here to expand)</i>
+<b style="font-size: 18px; "> 💻 Some Technologies </b> <i style="color: #79c0ff;"></i>
 <br>
 
 
