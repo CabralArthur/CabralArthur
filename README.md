@@ -61,11 +61,11 @@ app.get("/my-github", (req, res) => {
 
    <samp>
     <p align="left">
-      <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black" />
-      <img alt="Python3" src="https://img.shields.io/badge/-Python%FFFFFF-306998?style=flat-square&logo=python&logoColor=black" />
-      <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-F8A5C2?style=flat-square&logo=SASS&logoColor=FFFFFF" />
-      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white" />
+      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+      ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
     </p>
   </samp>
 
