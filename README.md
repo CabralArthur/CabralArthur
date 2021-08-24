@@ -64,48 +64,30 @@ app.get("/my-github", (req, res) => {
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 #### 🔨 Frameworks & Libraries: <br/>
 
-   <samp>
-    <p align="left">
-     <img alt="React" src="https://img.shields.io/badge/-React%20JS-262B32?style=flat-square&logo=react&logoColor=00D0F6" />
-     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-FFC8CB?style=flat-square&logo=styledcomponents&logoColor=black" />
-    </p>
-  </samp>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 #### 📦 Database: <br/>
 
-  <samp>
-    <p align="left">
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white" />
-      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-    </p>
-  </samp>
-  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 #### 🔧 Tools <br/>
-   <samp>
-    <p align="left">
-      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-      <img alt="Node.js" src="https://img.shields.io/badge/-Node.JS-026e00?style=flat-square&logo=node.js&logoColor=white" />
-      <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-      <img alt="Yarn" src="https://img.shields.io/badge/-yarn-2188b6?style=flat-square&logo=yarn&logoColor=white" />
-      <img alt="Windows" src="https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white" />
-      <img alt="Linux" src="https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux&logoColor=white" />
-    </p>
-  </samp>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+<img alt="Yarn" src="https://img.shields.io/badge/-yarn-2188b6?style=flat-square&logo=yarn&logoColor=white" />
+![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
-#### 🎨 Design: <br/>
-
-   <samp>
-    <p align="left">
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-EA4C1D?style=flat-square&logo=figma&logoColor=white" />
-    <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-450135?style=flat-square&logo=adobe-xd&logoColor=white" />
-    </p>
-  </samp>
-<br>
-
 #### Thank you! 👋
 
