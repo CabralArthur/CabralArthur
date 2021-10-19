@@ -25,7 +25,7 @@ app.get("/my-github", (req, res) => {
 
   const user = {
     name: 'Arthur Cabral',
-    age: 18,
+    age: 19,
     birthday: '24/09',
     state: 'Pernambuco',
     main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(My|Postgre)SQL'],
