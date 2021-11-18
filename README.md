@@ -28,7 +28,7 @@ app.get("/my-github", (req, res) => {
     age: 19,
     birthday: '24/09',
     state: 'Pernambuco',
-    main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(My|Postgre)SQL'],
+    main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(My|Postgre)SQL', 'AngularJS'],
   };
   
   res.json(user);
