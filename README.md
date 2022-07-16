@@ -23,15 +23,23 @@
 ```javascript
 app.get("/my-github", (req, res) => {
 
-  const user = {
-    name: 'Arthur Cabral',
-    age: 19,
-    birthday: '24/09',
-    state: 'Pernambuco',
-    main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(My|Postgre)SQL', 'AngularJS'],
-  };
-  
-  res.json(user);
+  try {
+    const user = {
+      name: 'Arthur Cabral',
+      age: 19,
+      birthday: '24/09',
+      state: 'Pernambuco',
+      main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(My|Postgre)SQL', 'AngularJS'],
+    };
+
+    ReadmeUtils.handleResponse(user);
+
+  } catch(error) {
+
+    ReadmeUtils.handleError(error);
+
+  }
+
 });
 ```
 
