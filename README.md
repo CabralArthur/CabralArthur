@@ -26,10 +26,10 @@ app.get("/my-github", (req, res) => {
   try {
     const user = {
       name: 'Arthur Cabral',
-      age: 19,
+      age: 20,
       birthday: '24/09',
       state: 'Pernambuco',
-      main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(My|Postgre)SQL', 'AngularJS'],
+      main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(Postgre)SQL', 'AngularJS'],
     };
 
     ReadmeUtils.handleResponse(user);
