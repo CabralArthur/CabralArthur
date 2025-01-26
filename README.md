@@ -29,7 +29,8 @@ app.get("/my-github", (req, res) => {
       created_at: '2002-09-24T00:00:00-03:00'',
       uf: 'PE',
       city: 'Recife',
-      main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(Postgre)SQL', 'AngularJS'],
+      main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(Postgre)SQL', 'AngularJS', 'TypeScript', 'NestJS'],
+      
     };
 
     ReadmeUtils.handleResponse(user);
