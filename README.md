@@ -1,96 +1,64 @@
-### Hello. Welcome to my profile.
+## Hello, I'm Arthur 👋...
 
-<samp>
-  </br>
-  <p align="center">
-    <a href="https://www.instagram.com/arthur.ccabral/" target="_blank" style="text-decoration: none;">
-      <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/cabralarthur/" target="_blank" style="text-decoration: none;">
-      <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white">
-    </a>
-    <a href="https://t.me/arthurcabrall" target="_blank" style="text-decoration: none;">
-      <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white">
-    </a>
-    <a href="mailto:arthurcabral.dev@gmail.com" target="_blank" style="text-decoration: none;">
-      <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white">
-    </a>    
-  </p>
-</samp>
+I build reliable, data-heavy systems end-to-end — from resilient backends and event-driven data pipelines to clean, pragmatic frontends. I’ve been working with high-volume fintech/healthcare systems, real-time tracking, ad automation, and AI-assisted analysis.
+
+* 🧠 Senior Software Engineer
+* 🔭 Currently building: <a href="https://github.com/retailsparks/">Gatewatch AI</a> (market sentiment & signal extraction), <a href="https://github.com/brightlift/">BrightLift AI</a> (ad automation + AI recommendations) and <a href="https://github.com/rekonapp/">Rekon</a> (face intelligence for events / clustering & identity insights)
+* 🧰 Focus: Node.js orchestration, async workflows, secure payments/approvals, data modeling, high-concurrency ingestion
+
+<hr style="height: 1px; margin: 0;">
+
+### Tech Stack
+
+<hr style="height: 1px; margin-bottom:8px;">
+
+**Languages & Frameworks**
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat\&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat\&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat\&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat\&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat\&logo=CSS)
+
+**Data & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat\&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat\&logo=redis)
+![BullMQ](https://img.shields.io/badge/-BullMQ-333333?style=flat\&logo=rabbitmq)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat\&logo=git)
+![NPM](https://img.shields.io/badge/-npm-333333?style=flat\&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-333333?style=flat\&logo=yarn)
+![Github](https://img.shields.io/badge/-Github-333333?style=flat\&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat\&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat\&logo=heroku)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat\&logo=githubactions)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat\&logo=amazonaws)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat\&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat\&logo=insomnia)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat\&logo=figma)
+
+<hr style="height: 1px;">
+
+### GitHub Stats
+
+<a href="https://github.com/CabralArthur" title="Arthur Cabral's GitHub">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=CabralArthur&theme=vue-dark&hide_border=true" />
+</a>
+<a href="https://github.com/CabralArthur" title="Arthur Cabral's GitHub">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CabralArthur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</a>
 
 ---
 
-```javascript
-app.get("/my-github", (req, res) => {
+## Contact
 
-  try {
-    const user = {
-      name: 'Arthur Cabral',
-      created_at: '2002-09-24T00:00:00-03:00'',
-      uf: 'PE',
-      city: 'Recife',
-      main_stack: ['JavaScript', 'NodeJS', 'React(JS)', '(Postgre)SQL', 'AngularJS', 'TypeScript', 'NestJS'],
-      
-    };
-
-    ReadmeUtils.handleResponse(user);
-
-  } catch(error) {
-
-    ReadmeUtils.handleError(error);
-
-  }
-
-});
-```
-
----
-
-<p align="center">
-  <img
-    align="center"
-    alt="Most used languages"
-    style="margin-bottom: 10px;"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CabralArthur&layout=compact&langs_count=6&theme=ayu-mirage"
-  />
-</p>
-
-<br>
-
-<b style="font-size: 18px; "> 💻 Some Technologies </b> <i style="color: #79c0ff;"></i>
-<br>
-
-
-
-#### 💬 Languages: <br/>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-#### 🔨 Frameworks & Libraries: <br/>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-#### 📦 Database: <br/>
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🔧 Tools <br/>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-<img alt="Yarn" src="https://img.shields.io/badge/-yarn-2188b6?style=flat-square&logo=yarn&logoColor=white" />
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  
-#### Thank you! 👋
-
+<span style="margin: -11px">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/cabralarthur/)
+[![GitHub](https://img.shields.io/github/followers/CabralArthur?label=follow\&style=social)](https://github.com/CabralArthur)
+[![Email](https://img.shields.io/badge/-arthurcabral.dev@gmail.com-006bed?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:arthurcabral.dev@gmail.com)
+</span>
