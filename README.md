@@ -43,7 +43,7 @@ I build reliable, data-heavy systems end-to-end — from resilient backends and 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat\&logo=insomnia)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat\&logo=figma)
 
-<hr style="height: 1px;">
+<hr>
 
 ## Contact
 
