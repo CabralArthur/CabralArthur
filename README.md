@@ -4,7 +4,7 @@ I build reliable, data-heavy systems end-to-end — from resilient backends and 
 
 * 🧠 Senior Software Engineer
 * 🔭 Currently building: <a href="https://github.com/retailsparks/">Gatewatch AI</a> (market sentiment & signal extraction), <a href="https://github.com/brightlift/">BrightLift AI</a> (ad automation + AI recommendations) and <a href="https://github.com/rekonapp/">Rekon</a> (face intelligence for events / clustering & identity insights)
-* 🧰 Focus: Node.js orchestration, async workflows, secure payments/approvals, data modeling, high-concurrency ingestion
+* 🧰 Focus: Web Applications development, Node.js orchestration, async workflows, secure payments/approvals, data modeling, high-concurrency ingestion
 
 <hr style="height: 1px; margin: 0;">
 
