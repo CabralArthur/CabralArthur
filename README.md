@@ -45,17 +45,6 @@ I build reliable, data-heavy systems end-to-end — from resilient backends and 
 
 <hr style="height: 1px;">
 
-### GitHub Stats
-
-<a href="https://github.com/CabralArthur" title="Arthur Cabral's GitHub">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=CabralArthur&theme=vue-dark&hide_border=true" />
-</a>
-<a href="https://github.com/CabralArthur" title="Arthur Cabral's GitHub">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CabralArthur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-</a>
-
----
-
 ## Contact
 
 <span style="margin: -11px">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/cabralarthur/)
