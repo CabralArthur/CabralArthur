@@ -3,7 +3,7 @@
 I build reliable, data-heavy systems end-to-end — from resilient backends and event-driven data pipelines to clean, pragmatic frontends. I’ve been working with high-volume fintech/healthcare systems, real-time tracking, ad automation, and AI-assisted analysis.
 
 * 🧠 Senior Software Engineer
-* 🔭 Currently building: <a href="https://gatewatch.ai/">Gatewatch AI</a> (market sentiment & signal extraction), <a href="https://brightlift.ai/">BrightLift AI</a> (ad automation + AI recommendations) and <a href="https://github.com/rekonapp/">Rekon</a> (face intelligence for events / clustering & identity insights)
+* 🔭 Currently building: <a href="https://www.gatewatch.ai/">Gatewatch AI</a> (market sentiment & signal extraction), <a href="https://brightlift.ai/">BrightLift AI</a> (ad automation + AI recommendations) and <a href="https://github.com/rekonapp/">Rekon</a> (face intelligence for events / clustering & identity insights)
 * 🧰 Focus: Web Applications development, Node.js orchestration, async workflows, secure payments/approvals, data modeling, high-concurrency ingestion
 
 <hr style="height: 1px; margin: 0;">
